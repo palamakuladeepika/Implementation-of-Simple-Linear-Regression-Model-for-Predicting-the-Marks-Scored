@@ -17,11 +17,11 @@ To write a program to implement the simple linear regression model for predictin
 
 ## Program:
 ```
-~~~
+/*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: palamakula deepika
 RegisterNumber: 212221240035 
-~~~
+*/
 
 import numpy as np
 import pandas as pd
